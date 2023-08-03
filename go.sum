@@ -56,10 +56,10 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815/go.mod h1:WwZ+bS3ebgob9U8Nd0kOddGdZWjyMGR8Wziv+TBNwSE=
-github.com/doflamingo721/lasso v1.26.5-rancher1 h1:umNYl5Nk8KLIt2Pnl2lS3YTb8me/wRIAPfMUcQGJPDA=
-github.com/doflamingo721/lasso v1.26.5-rancher1/go.mod h1:dEfC9eFQigj95lv/JQ8K5e7+qQCacWs1aIA6nLxKzT8=
-github.com/doflamingo721/wrangler v1.26.5-rancher1 h1:jKeZf/CzAd9Ti/+CXGIm4qVva1X8o95E9qX0/wDWMpA=
-github.com/doflamingo721/wrangler v1.26.5-rancher1/go.mod h1:sAqHJ2HttZVDW3eSe/hwtkJ2SHWAsgPHz6TriueV4Bs=
+github.com/doflamingo721/lasso v1.26.5-rancher3 h1:ncGBWDctQk70f8jbakAfPegtE/INSUbZa6wfyGdmml4=
+github.com/doflamingo721/lasso v1.26.5-rancher3/go.mod h1:S7WrTMcA3poxpqzFODRV69Rso0nncJYKxxmF+lDZBS8=
+github.com/doflamingo721/wrangler v1.26.5-rancher2 h1:98d6GBrFKalAR7Opry6fI/a+MpJbhs15LCG3/NWhUAQ=
+github.com/doflamingo721/wrangler v1.26.5-rancher2/go.mod h1:23PB5dwtpd0h8iOQPfN9HxJi5a3n6ixktqswZ+kkTqA=
 github.com/emicklei/go-restful/v3 v3.9.0 h1:XwGDlfxEnQZzuopoqxwSEllNcCOM9DhhFyhFIIGKwxE=
 github.com/emicklei/go-restful/v3 v3.9.0/go.mod h1:6n3XBCmQQb25CM2LCACGz8ukIrRry+4bhvbpWn3mrbc=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=

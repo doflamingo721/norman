@@ -3,8 +3,8 @@ module github.com/rancher/norman
 go 1.19
 
 replace (
-	github.com/rancher/lasso => github.com/doflamingo721/lasso v1.26.5-rancher1
-	github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher1
+	github.com/rancher/lasso => github.com/doflamingo721/lasso v1.26.5-rancher3
+	github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher2
 )
 
 require (
@@ -13,7 +13,7 @@ require (
 	github.com/maruel/panicparse v0.0.0-20171209025017-c0182c169410
 	github.com/matryer/moq v0.0.0-20200607124540-4638a53893e6
 	github.com/pkg/errors v0.9.1
-	github.com/rancher/lasso v0.0.0-20221227210133-6ea88ca2fbcc
+	github.com/rancher/lasso v0.0.0-20230629200414-8a54b32e6792
 	github.com/rancher/wrangler v1.1.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.8.1
